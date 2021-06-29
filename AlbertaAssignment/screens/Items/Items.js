@@ -139,35 +139,3 @@ let DATA=[];
     }
 
     export default Items;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
